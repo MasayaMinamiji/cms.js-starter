@@ -1,5 +1,5 @@
 --- layout: post 
-title: Webシステムの研究
+title: 過去の成績
 excerpt: この部分は抜粋です
 date:2019-02-14
 tags:卒業研究
